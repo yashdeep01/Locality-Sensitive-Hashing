@@ -1,7 +1,7 @@
 # Locality-Sensitive-Hashing
 
 ## Introduction
-This is an implementation of LSH, a popular IR algorithm to bunch similar items together.
+This is an implementation of LSH, a popular IR algorithm to bunch similar items together from a large dataset.
 
 ## Dataset
 I used a corpus of news articles of the period 2016-17 from kaggle. It consists of 20,000+ news articles from esteemed international dailies like NYT, The Guardian, CNN, etc.
